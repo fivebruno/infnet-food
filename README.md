@@ -31,4 +31,4 @@ Aplicativo mobile desenvolvido em React Native com Expo para pedidos e delivery 
 
 1. Clone este repositório:
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/fivebruno/infnet-food.git
